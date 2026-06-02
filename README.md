@@ -98,8 +98,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tahmeed3007&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahmeed3007&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" width="40%"/>
